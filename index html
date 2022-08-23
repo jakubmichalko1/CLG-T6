@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>homepage</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <img src="img/test.jpg" alt="Snow" style="width:100%;">
+        <div class="centered">Centered sadkfjhf khdf kjf er rgsdfghjdsfkg hdsfk </div>
+    </div>
+
+
+</body>
+
+</html>
