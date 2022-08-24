@@ -31,7 +31,6 @@ p-test {
     text-align: center;
     position: relative;
     bottom: 8px;
-    font-size: 150%;
     color: aliceblue;
 }
 
@@ -40,7 +39,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-p {
+.dreams {
     font-size: 25px;
 
 }
