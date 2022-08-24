@@ -53,3 +53,7 @@ li a {
     color: whitesmoke;
     background-color: darkslategray;
 }
+
+.content {
+    padding: 90px 20px;
+}
