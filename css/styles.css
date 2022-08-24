@@ -38,6 +38,9 @@ p-test {
 body {
     padding-top: 73px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main {
     display: flex;
     flex-direction: column;
     background-image: url("../img/header.jpg");
@@ -66,6 +69,10 @@ li a {
 
 .content {
     padding: 90px 20px;
+}
+
+.dreams {
+    color: white;
 }
 
 .row {
