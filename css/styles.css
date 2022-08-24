@@ -40,6 +40,11 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+p {
+    font-size: 25px;
+
+}
+
 .main {
     display: flex;
     flex-direction: column;
