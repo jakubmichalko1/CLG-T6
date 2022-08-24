@@ -22,12 +22,12 @@ h1 {
     color: white;
 }
 
-p {
+p-test {
     text-align: center;
     position: relative;
     bottom: 8px;
     font-size: 150%;
-    color: whitesmoke;
+    color: black;
 }
 
 body {
