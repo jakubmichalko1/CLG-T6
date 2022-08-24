@@ -2,7 +2,6 @@
 .header {
     position: relative;
     text-align: center;
-    color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     flex-direction: column;
     margin: 0px;
@@ -29,11 +28,16 @@
 }
 
 h1 {
-    font-size: 200%;
+    font-size: 450%;
+    color: white;
 }
 
 p {
     text-align: center;
+    position: relative;
+    bottom: 45px;
+    font-size: 150%;
+    color: whitesmoke;
 }
 
 body {
@@ -41,3 +45,7 @@ body {
     display: flex;
     flex-direction: column;
 }
+menubar {
+    color: whitesmoke;
+}
+
