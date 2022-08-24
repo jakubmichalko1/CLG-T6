@@ -64,3 +64,9 @@ li a {
 .content {
     padding: 90px 20px;
 }
+
+.main {
+    background: url(../img/header.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+}
