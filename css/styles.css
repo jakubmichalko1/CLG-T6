@@ -16,16 +16,6 @@
     transform: translate(-50%, -50%);
 }
 
-.headerOLD {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    background: #9abc0c;
-    color: white;
-    align-items: center;
-    padding: 80px;
-
-}
 
 h1 {
     font-size: 450%;
@@ -35,7 +25,7 @@ h1 {
 p {
     text-align: center;
     position: relative;
-    bottom: 45px;
+    bottom: 8px;
     font-size: 150%;
     color: whitesmoke;
 }
