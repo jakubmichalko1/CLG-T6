@@ -36,6 +36,7 @@ p-test {
 }
 
 body {
+    padding-top: 73px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     flex-direction: column;
@@ -67,8 +68,23 @@ li a {
     padding: 90px 20px;
 }
 
+.row {
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+}
+
+.map {
+    width: 50%;
+    padding-right: 0em;
+}
+
+.contacts {
+    width: 50%;
+    padding: 5em
+}
+
 .main {
     background: url(../img/header.jpg) no-repeat center center fixed;
     background-size: cover;
-
 }
