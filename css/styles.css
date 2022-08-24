@@ -25,12 +25,12 @@ h1 {
     color: white;
 }
 
-p {
+p-test {
     text-align: center;
     position: relative;
     bottom: 8px;
     font-size: 150%;
-    color: whitesmoke;
+    color: black;
 }
 
 body {
@@ -59,4 +59,8 @@ li a {
     display: block;
     color: whitesmoke;
     background-color: darkslategray;
+}
+
+.content {
+    padding: 90px 20px;
 }
