@@ -45,7 +45,21 @@ body {
     display: flex;
     flex-direction: column;
 }
-menubar {
-    color: whitesmoke;
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+    display: block;
 }
 
+li a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 1280px;
+    display: block;
+    color: whitesmoke;
+    background-color: darkslategray;
+}
