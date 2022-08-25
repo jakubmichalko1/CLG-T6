@@ -1,10 +1,12 @@
-
-
 h3 {
-color:black;
+    color: black;
 }
 
 .somnium {
 
     padding-left: 3em;
+}
+
+.dd {
+    font-size: 14px;
 }
