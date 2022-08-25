@@ -36,7 +36,9 @@
 }
 
 .abc {
-    padding-left: 23.3em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
     padding-top: 4em;
 }
 
