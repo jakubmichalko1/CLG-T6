@@ -72,7 +72,10 @@ li a {
 }
 
 .content {
-    padding: 50px 20px;
+    padding: 50px 160px;
+    text-align: center;
+    width: 1270px;
+
 }
 
 .dreams {
