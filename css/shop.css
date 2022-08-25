@@ -11,8 +11,10 @@
 }
 
 .cart {
-    padding-top: 3em;
-    padding-left: 10em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 4em;
 }
 
 .buy {
@@ -43,5 +45,7 @@
 }
 
 .abeceda {
-    padding-left: 8.5em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
