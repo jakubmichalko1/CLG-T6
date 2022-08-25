@@ -56,7 +56,7 @@ body {
 ul {
     list-style-type: none;
     margin: 0;
-    
+
     width: 1200px;
     display: block;
 }
@@ -77,8 +77,8 @@ li a {
 }
 
 .content {
-    padding: 50px 160px;
-    text-align: right;
+    padding: 30px 20px;
+    text-align: left;
     width: 1270px;
 
 }
