@@ -77,7 +77,8 @@ li a {
 }
 
 .content {
-    padding: 30px 20px;
+    padding-left: 3em;
+    margin-top: 40px;
     text-align: left;
     width: 1270px;
 
