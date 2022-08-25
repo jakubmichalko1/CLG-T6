@@ -72,14 +72,13 @@ li a {
 }
 
 .content2 {
-    text-align: center;
     width: 1270px;
     padding: 10px 20px;
 }
 
 .content {
     padding: 50px 160px;
-    text-align: center;
+    text-align: right;
     width: 1270px;
 
 }
