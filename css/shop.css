@@ -12,7 +12,9 @@
     padding-left: 10em;
 }
 
-.buy {}
+.buy {
+    padding-left: 0.7em;
+}
 
 .form-border {
     border: 2px solid rgb(0, 0, 0);
